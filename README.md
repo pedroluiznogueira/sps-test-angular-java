@@ -2,6 +2,44 @@
 
 # Documentação & Raciocínio
 
+## ATENÇÃO
+
+<p>
+    Para acessar em detalhes o raciocínio técnico passo a passo em cada aplicação no desenvolvimento.
+</p>
+<p>
+    Acesse em cada um dos repositórios os <b>links</b> abaixo:
+</p>
+<ul> <b>Front-end</b>
+    <li>
+        <a href="https://github.com/pedroluiznogueira/sps-ng/projects/1">Projects</a> 
+        -> Cada issue é um tarefa no quadro Kanban
+    </li>
+    <li>
+        <a href="https://github.com/pedroluiznogueira/sps-ng/issues?q=is%3Aissue+is%3Aclosed">Issues</a>
+        -> Closed Issues
+    </li>
+    <li>
+        <a href="https://github.com/pedroluiznogueira/sps-ng/pulls?q=is%3Apr+is%3Aclosed">Pull Requests</a>
+        -> Closed Pull Requests
+    </li>
+</ul>
+<br>
+<ul> <b>Back-end</b>
+    <li>
+        <a href="https://github.com/pedroluiznogueira/sps-api/projects/1">Projects</a> 
+        -> Cada issue é um tarefa no quadro Kanban
+    </li>    
+    <li>
+        <a href="https://github.com/pedroluiznogueira/sps-api/issues?q=is%3Aissue+is%3Aclosed">Issues</a>
+        -> Closed Issues
+    </li>
+    <li>
+        <a href="https://github.com/pedroluiznogueira/sps-api/pulls?q=is%3Apr+is%3Aclosed">Pull Requests</a>
+        -> Closed Pull Requests
+    </li>
+</ul>
+
 ## Repositórios de Desenvolvimento
 
 | Repositório              |      Link          |
