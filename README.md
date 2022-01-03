@@ -1,6 +1,6 @@
 <div style="display:flex; justify-content:center; align-items:center; flex-direction: column;">
 
-# Raciocínio geral
+# Documentação & Raciocínio
 
 ## Repositórios de Desenvolvimento
 
