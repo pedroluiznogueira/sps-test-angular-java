@@ -6,8 +6,8 @@
 
 | Repositório              |      Link          |
 | :-------------------- | :-----------------------: |
-| Front-end        |      <a href="https://github.com/pedroluiznogueira/sps-api">Acesse</a>        |
-|   Back-end|     <a href="https://github.com/pedroluiznogueira/sps-ng">Acesse</a>          |
+| Front-end        |      <a href="https://github.com/pedroluiznogueira/sps-ng">Acesse</a>        |
+|   Back-end|     <a href="https://github.com/pedroluiznogueira/sps-api">Acesse</a>          |
 
 ## Tecnologias
 
