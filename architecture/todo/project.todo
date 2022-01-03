@@ -1,0 +1,18 @@
+- Teste de desenvolvimento de sistemas (REACT e NODE)- Junior
+- Criar um site de gerenciamento de repositórios do GitHub com login e senha 
+- que permita adicionar repositórios de outras pessoas em um banco de dados não relacional.
+- O sistema apresentará uma página inicial para o usuário informar o Login e Senha e um botão para entrar.
+- Na segunda tela deverá listar automaticamente ao entrar, todos os repositórios que o usuário tiver no banco de dados
+- com o nome do usuário e a url do repositório.
+- Deverá ter uma maneira de pesquisar os repositórios já cadastrados.
+- Exibir a lista de repositórios e um botão para excluir um determinado repositório, 
+- fazendo uma pergunta se o usuário realmente deseja excluir.
+- Deverá ter uma forma de adicionar um novo repositório, validando se ele existe.
+
+☐ arquitetura de cadastro e login
+☐ página principal de pesquisa de repositórios
+    ☐ navbar com logo e botão de logout
+    ☐ barra de pesquisa
+    ☐ lista com os repositórios do usuário
+    ☐ input para adicionar um novo repositório
+    ☐ acessar o nome de usuário do github na url do repositório
